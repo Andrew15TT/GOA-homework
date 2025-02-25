@@ -1,0 +1,1 @@
+print ("fexburti aris chemi hobi imitom rom rogorc satamashod aseve sayurebladac saxalisoa. da fexburti mtel msoflioshi aris gavrcelebuli.")
